@@ -1,0 +1,28 @@
+{
+  "todo": [
+    {
+      "todo": "hello ",
+      "completed": false,
+      "category": "personal",
+      "id": 2
+    },
+    {
+      "todo": "hy",
+      "completed": false,
+      "category": "personal",
+      "id": 3
+    },
+    {
+      "todo": "lkjg",
+      "completed": true,
+      "category": "home",
+      "id": 5
+    },
+    {
+      "todo": "testing ",
+      "completed": false,
+      "category": "public",
+      "id": 6
+    }
+  ]
+}
